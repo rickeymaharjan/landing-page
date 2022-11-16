@@ -205,3 +205,14 @@ body{
     border-radius: 9px;
     font-weight: 500;
 }
+
+.footer{
+    background-color: #1F2937;
+    text-align: center;
+    padding: 40px 0;
+}
+
+.footer-text{
+    color: rgb(213, 213, 213);
+    font-size: 18px;
+}
