@@ -166,3 +166,42 @@ body{
     align-self: flex-end;
     margin-right: 35px;
 }
+
+.calltoaction-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.calltoaction{
+    background-color: #3882F6;
+    border-radius: 10px;
+    color: white;
+    padding: 50px;
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.calltoaction-title{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.calltoaction-text{
+    color: #e4e4e4;
+}
+
+.signup-bottom{
+    padding: 8px 33px;
+    font-size: 19px;
+    border: none;
+    background-color: #3882F6;
+    color: white;
+    border: 2px solid white;
+    border-radius: 9px;
+    font-weight: 500;
+}
